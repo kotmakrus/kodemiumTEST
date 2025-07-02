@@ -1,2 +1,3 @@
-# kodemiumTEST
-This repository has beend made for test
+# README
+Это чат-бот для телеграма.
+Питомец.
