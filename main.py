@@ -3,7 +3,7 @@ from telebot import types
 from random import *
 from time import *
 
-token = '7536199888:AAG29jzFOyQoYbDHUtxPBkj26GHctA_9fS8'
+token = 'your token here'
 bot = telebot.TeleBot(token)
 start_time = time()
 animal = ''
